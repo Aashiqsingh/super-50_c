@@ -1,0 +1,2 @@
+Array : Array is a collection of similar datatypes.
+Array is always starts from 0 index.
