@@ -1,2 +1,6 @@
 1. take input from user array elements and print only odd index.
 2. sum of all elements of array.
+
+
+3. sum of two array
+4. sum of even and odd elements of array
