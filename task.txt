@@ -4,3 +4,8 @@
 
 3. sum of two array
 4. sum of even and odd elements of array
+
+
+5 oct :
+1. column wise sum of element 
+2. subtrcation of two 2d array
