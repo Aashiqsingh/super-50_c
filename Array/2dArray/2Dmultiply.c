@@ -52,10 +52,13 @@ void main()
             c[i][j] = 0;
             for(int k=0;k<3;k++)
             {
-                c[i][j] = c[i][j] +  (a[i][k] * b[k][j]);
-                //          0     +     1     *     1
-                //          1     +     2     *     1
-                //          
+                c[i][j] = c[i][j] +  (a[i][k] * b[k][j]); 
+        //    1st move     0       +    1     *   3
+        //    2nd move     3       +    2     *   2
+        //    3rd move     7       +    3     *   5
+        //    4th move     0       +    1     *   2
+        //    5th move     2       +    2     *   3
+        //    6th move     8       +    3     *   6
             }
         }
     }
@@ -69,3 +72,5 @@ void main()
         printf("\n");
     }
 }
+
+// a[row][col]

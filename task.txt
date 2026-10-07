@@ -9,3 +9,8 @@
 5 oct :
 1. column wise sum of element 
 2. subtrcation of two 2d array
+
+
+7 oct :
+1. sum of all elements of array 3darray
+2. calculate sum of matrix wise sum
