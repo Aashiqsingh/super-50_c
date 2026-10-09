@@ -1,0 +1,16 @@
+Function : A function is a block of code that performs a specific task.
+
+
+
+there are four types of function
+1. without argument withut return type
+2. with argument without return type
+3. without argument with return type
+4. with argument with return type
+
+
+
+
+{
+
+}

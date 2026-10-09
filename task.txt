@@ -14,3 +14,8 @@
 7 oct :
 1. sum of all elements of array 3darray
 2. calculate sum of matrix wise sum
+
+9 oct :
+1.prime number with function
+2. factorial of number with function
+3. sum of num with function
