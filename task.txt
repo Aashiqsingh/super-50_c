@@ -18,4 +18,4 @@
 9 oct :
 1.prime number with function
 2. factorial of number with function
-3. sum of num with function
+3. sum of digits with function
