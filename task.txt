@@ -19,3 +19,8 @@
 1.prime number with function
 2. factorial of number with function
 3. sum of digits with function
+
+
+----------------
+1 . pallindrome with function
+2. find gretter in array list with function
