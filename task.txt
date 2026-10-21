@@ -24,3 +24,7 @@
 ----------------
 1 . pallindrome with function
 2. find gretter in array list with function
+
+
+You are good students.
+count white space  in string. 
