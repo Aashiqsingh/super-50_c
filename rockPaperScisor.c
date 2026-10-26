@@ -12,17 +12,17 @@ char computer()
     if(num == 1)
     {
         printf("Computer chose Rock\n");
-        return "r";
+        return 'r';
     }
     else if(num == 2)
     {
         printf("Computer chose Paper\n");
-        return "p";
+        return 'p';
     }
     else if(num == 3)
     {
         printf("Computer chose Scissors\n");
-        return "s";
+        return 's';
     }
 }
 
@@ -35,17 +35,17 @@ char user()
     if(num == 1)
     {
         printf("User chose Rock\n");
-        return "r";
+        return 'r';
     }
     else if(num == 2)
     {
         printf("User chose Paper\n");
-        return "p";
+        return 'p';
     }
     else if(num == 3)
     {
         printf("User chose Scissors\n");
-        return "s";
+        return 's';
     }
 }
 
@@ -55,6 +55,8 @@ void main()
     char userAns,compAns;
     userAns = user();
     compAns = computer();
+    printf("Computer chose %c\n",compAns);
+    printf("User chose %c\n",userAns);
 
     if(compAns == userAns)
     {
