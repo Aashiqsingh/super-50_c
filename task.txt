@@ -28,3 +28,7 @@
 
 You are good students.
 count white space  in string. 
+
+
+create a emplyee structure which contain 
+1. id , name , age , salary , designation 
