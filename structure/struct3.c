@@ -28,3 +28,5 @@ void main()
         printf("%d\t%s\t%d\n",e[i].id,e[i].name,e[i].salary);
     }
 }
+
+// CRUD : creaet , read , update , delete
