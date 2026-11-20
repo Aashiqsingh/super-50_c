@@ -24,7 +24,7 @@ void main()
         
         }
         else{
-            otp[i] = rand()%26+97;
+            otp[i] = rand()%10+48;
         }
     }
     printf("%s",otp);
