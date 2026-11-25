@@ -16,6 +16,7 @@ void main()
 
         name = fgetc(f);
         printf("Name = %c",name);
+        
 
         fclose(f);
     }

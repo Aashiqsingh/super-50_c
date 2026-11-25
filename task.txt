@@ -32,3 +32,7 @@ count white space  in string.
 
 create a emplyee structure which contain 
 1. id , name , age , salary , designation 
+
+
+1. create a file where store random otp
+2. Enter pin (): matching with file otp 
